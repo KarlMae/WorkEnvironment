@@ -1,6 +1,3 @@
-export GRADLE_HOME=/usr/local/Cellar/gradle/4.4.1
-export PATH=$GRADLE_HOME/bin:$PATH
-
 alias gst='git status'
 alias gc='git commit'
 alias gco='git checkout'
