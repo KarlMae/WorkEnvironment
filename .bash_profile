@@ -6,6 +6,7 @@ alias gp='git push'
 alias ga='git add'
 alias zoom='~/Documents/zoom.sh'
 alias killport='~/Documents/killport.sh'
+alias startrabbit='cd ~/Development/rabbitmq && docker-compose up -d && cd -'
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/karl.mae/.sdkman"
