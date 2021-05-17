@@ -13,7 +13,7 @@ Aliases :
 Requires usage of ZShell.
 
 Clone repo and run ./link.sh in the project folder.
-This binds ZShell config files to your local .zshrc.
+This binds ZShell config files to your local .zshrc and copies necessary script files to ~/ZSH_Scripts
 
 Open new terminal and aliases should be there
 
