@@ -15,5 +15,8 @@ Requires usage of ZShell.
 Clone repo and run ./link.sh in the project folder.
 This binds ZShell config files to your local .zshrc.
 
+Open new terminal and aliases should be there
+
+---
 
 This project also includes my .gitignore_glboal file.
